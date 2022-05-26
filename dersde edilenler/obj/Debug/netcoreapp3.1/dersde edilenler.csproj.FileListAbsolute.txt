@@ -1,0 +1,5 @@
+C:\Users\afand\source\repos\dersde edilenler\dersde edilenler\obj\Debug\netcoreapp3.1\dersde edilenler.csproj.AssemblyReference.cache
+C:\Users\afand\source\repos\dersde edilenler\dersde edilenler\obj\Debug\netcoreapp3.1\dersde edilenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afand\source\repos\dersde edilenler\dersde edilenler\obj\Debug\netcoreapp3.1\dersde edilenler.AssemblyInfoInputs.cache
+C:\Users\afand\source\repos\dersde edilenler\dersde edilenler\obj\Debug\netcoreapp3.1\dersde edilenler.AssemblyInfo.cs
+C:\Users\afand\source\repos\dersde edilenler\dersde edilenler\obj\Debug\netcoreapp3.1\dersde edilenler.csproj.CoreCompileInputs.cache
